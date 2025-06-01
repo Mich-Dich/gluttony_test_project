@@ -1,0 +1,50 @@
+map_data:
+  file_header:
+    file_version: 1 0 0
+    type: 1
+    timestamp: 2025 6 1 0 21 58 22 643
+  lighting:
+    sunlight_direction: 0.0000 0.0000 0.0000 0.0000
+    sunlight_direction: 0.0000 0.0000 0.0000 0.0000
+    sunlight_color: 0.0000 0.0000 0.0000 0.0000
+  entities:
+  - name: barrel
+    ID: 13297662264731051165
+    transform_component:
+      translation: 0 0 0
+      rotation: 0 -0 0
+      scale: 1 1 1
+    static_mesh_component:
+      mesh_asset_path: /home/mich/workspace/gluttony_test_project/content/meshes/Barrel.glb
+      mobility_data: 0
+      visible: true
+  - name: barrel_01
+    ID: 13297662264345673105
+    transform_component:
+      translation: 3 0 -2
+      rotation: -3.14159 0.0226893 -3.14159
+      scale: 0.999994 1 0.999994
+    static_mesh_component:
+      mesh_asset_path: /home/mich/workspace/gluttony_test_project/content/meshes/wooden watch tower.glb
+      mobility_data: 0
+      visible: true
+  - name: barrel_02
+    ID: 13297662225451385435
+    transform_component:
+      translation: 2 0 2
+      rotation: -8.74228e-08 -0.0174533 -8.74228e-08
+      scale: 0.999995 1 0.999995
+    static_mesh_component:
+      mesh_asset_path: /home/mich/workspace/gluttony_test_project/content/meshes/mesh_001.glb
+      mobility_data: 0
+      visible: true
+  - name: plain
+    ID: 17587564879382017232
+    transform_component:
+      translation: 0 0.01 0
+      rotation: 0 -0 0
+      scale: 1 1 1
+    static_mesh_component:
+      mesh_asset_path: /home/mich/workspace/gluttony_test_project/content/meshes/plane.glb
+      mobility_data: 0
+      visible: true
