@@ -2,49 +2,64 @@ map_data:
   file_header:
     file_version: 1 0 0
     type: 1
-    timestamp: 2025 6 1 0 21 58 22 643
+    timestamp: 2025 6 12 4 19 2 0 596
   lighting:
     sunlight_direction: 0.0000 0.0000 0.0000 0.0000
     sunlight_direction: 0.0000 0.0000 0.0000 0.0000
     sunlight_color: 0.0000 0.0000 0.0000 0.0000
   entities:
-  - name: barrel
-    ID: 13297662264731051165
+  - name: New entity
+    ID: 16619145472840529472
     transform_component:
-      translation: 0 0 0
+      translation: 5 0 0
       rotation: 0 -0 0
       scale: 1 1 1
     static_mesh_component:
-      mesh_asset_path: /home/mich/workspace/gluttony_test_project/content/meshes/Barrel.glb
+      mesh_asset_path: meshes/default_cube.gltasset
+      material_path: /home/mich/workspace/gluttony/bin/Debug-linux-x86_64/assets/materials/default_material_instance.gltasset
       mobility_data: 0
       visible: true
-  - name: barrel_01
-    ID: 13297662264345673105
+  - name: New entity
+    ID: 14001281298770637390
     transform_component:
-      translation: 3 0 -2
-      rotation: -3.14159 0.0226893 -3.14159
-      scale: 0.999994 1 0.999994
+      translation: 3 1.6 0
+      rotation: 3.12588 0.123918 -3.0997
+      scale: 0.00999996 0.00999999 0.00999995
     static_mesh_component:
-      mesh_asset_path: /home/mich/workspace/gluttony_test_project/content/meshes/wooden watch tower.glb
+      mesh_asset_path: meshes/body_sub/brain_carrier_wings.gltasset
+      material_path: materials/barrel_mat_inst.gltasset
       mobility_data: 0
       visible: true
-  - name: barrel_02
-    ID: 13297662225451385435
+  - name: New entity
+    ID: 6543310746530953333
     transform_component:
-      translation: 2 0 2
-      rotation: -8.74228e-08 -0.0174533 -8.74228e-08
-      scale: 0.999995 1 0.999995
+      translation: 5 0 -2
+      rotation: 8.74225e-08 0.331263 8.74226e-08
+      scale: 0.999992 1 0.999992
     static_mesh_component:
-      mesh_asset_path: /home/mich/workspace/gluttony_test_project/content/meshes/mesh_001.glb
+      mesh_asset_path: meshes/Barrel.gltasset
+      material_path: materials/barrel_mat_inst.gltasset
       mobility_data: 0
       visible: true
-  - name: plain
-    ID: 17587564879382017232
+  - name: New entity
+    ID: 17412556486158971654
     transform_component:
-      translation: 0 0.01 0
+      translation: 3 1 0
       rotation: 0 -0 0
-      scale: 1 1 1
+      scale: 0.5 1 0.43
     static_mesh_component:
-      mesh_asset_path: /home/mich/workspace/gluttony_test_project/content/meshes/plane.glb
+      mesh_asset_path: /home/mich/workspace/gluttony/bin/Debug-linux-x86_64/assets/meshes/default_cube.gltasset
+      material_path: /home/mich/workspace/gluttony/bin/Debug-linux-x86_64/assets/materials/default_material_instance.gltasset
+      mobility_data: 0
+      visible: true
+  - name: New entity
+    ID: 9984469700916546292
+    transform_component:
+      translation: 1 1 0
+      rotation: 0 -0 0
+      scale: 0.5 1 0.5
+    static_mesh_component:
+      mesh_asset_path: /home/mich/workspace/gluttony/bin/Debug-linux-x86_64/assets/meshes/default_cube.gltasset
+      material_path: materials/barrel_mat_inst.gltasset
       mobility_data: 0
       visible: true
