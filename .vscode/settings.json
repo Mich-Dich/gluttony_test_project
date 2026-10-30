@@ -1,0 +1,31 @@
+{
+  "files.associations": {
+    "*.log": "ansi",
+    "*.glsl": "cpp",
+    "*.hlsl": "cpp",
+    "*.vert": "cpp",
+    "*.frag": "cpp",
+    "*.glt_plugin": "yaml",
+    "*.glt_proj": "yaml"
+  },
+  "cSpell.words": [
+    "Blit",
+    "blitted",
+    "denoising",
+    "glfw",
+    "hlsl",
+    "imgui",
+    "instrumentor",
+    "spirv",
+    "swapchain",
+    "tlas",
+    "undoable",
+    "VFSPP",
+    "vk_ray"
+  ],
+  "C_Cpp.errorSquiggles": "disabled",
+  "github.copilot.enable": {
+    "*": false
+  },
+  "cmake.sourceDirectory": "/home/mich/workspace/gluttony_test_project/content/VulraySamples"
+}

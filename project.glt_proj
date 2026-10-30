@@ -1,0 +1,35 @@
+project_data:
+  display_name: Test Project
+  name: test_project
+  ID: 3540325100
+  engine_version: 0 0 0
+  project_version: 0 0 0
+  build_path: /build
+  start_world: world/dev_world.glt_world
+  editor_start_world: world/dev_world.glt_world
+  last_modified: 0 53 51 53 49 53 51 49
+  description: A Simple test project, manually created
+  tags:
+plugin_settings:
+  none: unknown
+  logger: logger_default
+  window: window_glfw
+  memory_manager: unknown
+  configuration: unknown
+  input_system: input_manager_default
+  virtual_file_system: virtual_file_system_vfspp
+  renderer: renderer_vk_rasterizer
+  asset_registry: asset_registry_default
+  resource_cache: unknown
+  ecs: unknown
+  world: world_ecs_entt
+  physics: physics_jolt
+  audio: audio_soloud
+  scripting: unknown
+  ui_system: unknown
+  editor_core: editor
+  networking: unknown
+  online_subsystem: unknown
+  game_loop: game_loop_default
+  custom: unknown
+  __custom_disabled__: 
