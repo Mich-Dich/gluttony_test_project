@@ -25,7 +25,7 @@ plugin_settings:
   world: world_ecs_entt
   physics: physics_jolt
   audio: audio_soloud
-  scripting: unknown
+  scripting: scripting_cpp
   ui_system: unknown
   editor_core: editor
   networking: unknown

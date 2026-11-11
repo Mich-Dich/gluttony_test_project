@@ -1,9 +1,9 @@
 window:
   title: Gluttony
   width: 1680
-  height: 996
-  pos_x: 6
-  pos_y: 34
+  height: 1114
+  pos_x: 5126
+  pos_y: 561
   vsync: false
   size_state: windowed
 simulation_settings:
