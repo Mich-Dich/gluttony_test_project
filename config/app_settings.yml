@@ -7,7 +7,7 @@ window:
   vsync: false
   size_state: windowed
 simulation_settings:
-  mode: 2
+  mode: 1
   window_count: 1
   layout_1:
     window_0:
