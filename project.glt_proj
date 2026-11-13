@@ -6,7 +6,7 @@ project_data:
   project_version: 0 0 0
   build_path: /build
   start_world: world/dev_world.glt_world
-  editor_start_world: world/dev_world.glt_world
+  editor_start_world: world/stress/instancing_1k.glt_world
   last_modified: 0 53 51 53 49 53 51 49
   description: A Simple test project, manually created
   tags:

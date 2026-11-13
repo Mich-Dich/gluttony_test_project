@@ -1,0 +1,328 @@
+render_samples:
+  version: 2
+  asset: fc08797de9f33306
+  path: static_mesh_assets/basic/stealth_ship.glt_static_mesh
+  geometry: e259822b3e1d68cb
+  extent_width: 892
+  extent_height: 992
+  directions:
+    - 159
+    - 170
+    - 274
+    - 305
+    - 305
+    - 304
+    - 277
+    - 168
+    - 221
+    - 209
+    - 116
+    - 165
+    - 236
+    - 182
+    - 114
+    - 178
+    - 302
+    - 307
+    - 292
+    - 196
+    - 142
+    - 165
+    - 863
+    - 9888
+  series:
+  - id: 0
+    signature: 4d0d672509e6132b
+    samples: 6180
+  - id: 1
+    signature: f42e48ef45d94dba
+    samples: 9358
+  ranges:
+  - series: 0
+    range: 0
+    samples: 125
+    timed_samples: 125
+    geometry_ms: 193.4235361814499
+    gpu_ms: 270.0064514875412
+    triangles: 34040750
+    draws: 3875
+  - series: 0
+    range: 1
+    samples: 95
+    timed_samples: 95
+    geometry_ms: 154.8515591621399
+    gpu_ms: 209.45978713035583
+    triangles: 25870970
+    draws: 2945
+  - series: 0
+    range: 2
+    samples: 621
+    timed_samples: 621
+    geometry_ms: 1076.6358580589294
+    gpu_ms: 1419.2391834259033
+    triangles: 169114446
+    draws: 19251
+  - series: 0
+    range: 3
+    samples: 593
+    timed_samples: 593
+    geometry_ms: 929.7430000305176
+    gpu_ms: 1243.7307517528534
+    triangles: 161489318
+    draws: 18383
+  - series: 0
+    range: 4
+    samples: 1214
+    timed_samples: 1214
+    geometry_ms: 1682.3883473873138
+    gpu_ms: 2355.4663507938385
+    triangles: 330603764
+    draws: 37634
+  - series: 0
+    range: 5
+    samples: 454
+    timed_samples: 454
+    geometry_ms: 642.1775853633881
+    gpu_ms: 865.5533118247986
+    triangles: 123636004
+    draws: 14074
+  - series: 0
+    range: 6
+    samples: 331
+    timed_samples: 331
+    geometry_ms: 482.2064463496208
+    gpu_ms: 642.958266377449
+    triangles: 90139906
+    draws: 10261
+  - series: 0
+    range: 7
+    samples: 310
+    timed_samples: 310
+    geometry_ms: 454.23545664548874
+    gpu_ms: 604.8049854040146
+    triangles: 84421060
+    draws: 9610
+  - series: 0
+    range: 8
+    samples: 373
+    timed_samples: 373
+    geometry_ms: 469.9260279536247
+    gpu_ms: 648.5833702087402
+    triangles: 93421168
+    draws: 11563
+  - series: 0
+    range: 9
+    samples: 256
+    timed_samples: 256
+    geometry_ms: 243.83358705043793
+    gpu_ms: 365.3899909257889
+    triangles: 31047936
+    draws: 7936
+  - series: 0
+    range: 10
+    samples: 288
+    timed_samples: 288
+    geometry_ms: 264.58155649900436
+    gpu_ms: 399.98551058769226
+    triangles: 34928928
+    draws: 8928
+  - series: 0
+    range: 11
+    samples: 272
+    timed_samples: 272
+    geometry_ms: 226.77884876728058
+    gpu_ms: 353.9741055369377
+    triangles: 31676462
+    draws: 8432
+  - series: 0
+    range: 12
+    samples: 260
+    timed_samples: 260
+    geometry_ms: 151.8765065073967
+    gpu_ms: 276.7522322535515
+    triangles: 16027960
+    draws: 8060
+  - series: 0
+    range: 13
+    samples: 283
+    timed_samples: 283
+    geometry_ms: 162.4014022052288
+    gpu_ms: 295.73369055986404
+    triangles: 17445818
+    draws: 8773
+  - series: 0
+    range: 14
+    samples: 218
+    timed_samples: 218
+    geometry_ms: 109.17754912376404
+    gpu_ms: 215.86051559448242
+    triangles: 9964500
+    draws: 6758
+  - series: 0
+    range: 15
+    samples: 161
+    timed_samples: 161
+    geometry_ms: 72.36775863170624
+    gpu_ms: 153.39775621891022
+    triangles: 4219103
+    draws: 4991
+  - series: 0
+    range: 16
+    samples: 168
+    timed_samples: 168
+    geometry_ms: 66.73452946543694
+    gpu_ms: 151.8060378432274
+    triangles: 2779896
+    draws: 5208
+  - series: 0
+    range: 17
+    samples: 158
+    timed_samples: 158
+    geometry_ms: 61.937290608882904
+    gpu_ms: 142.11786144971848
+    triangles: 1881772
+    draws: 4898
+  - series: 1
+    range: 0
+    samples: 152
+    timed_samples: 152
+    geometry_ms: 193.45447462797165
+    gpu_ms: 300.4063980579376
+    triangles: 8935133
+    draws: 75959
+  - series: 1
+    range: 1
+    samples: 214
+    timed_samples: 214
+    geometry_ms: 238.6834836602211
+    gpu_ms: 372.55947041511536
+    triangles: 12353596
+    draws: 105900
+  - series: 1
+    range: 2
+    samples: 386
+    timed_samples: 386
+    geometry_ms: 482.7015504837036
+    gpu_ms: 708.04951441288
+    triangles: 21358386
+    draws: 183962
+  - series: 1
+    range: 3
+    samples: 3033
+    timed_samples: 3033
+    geometry_ms: 2430.2310305833817
+    gpu_ms: 4044.395265698433
+    triangles: 180846740
+    draws: 1561534
+  - series: 1
+    range: 4
+    samples: 2341
+    timed_samples: 2341
+    geometry_ms: 1784.0395359098911
+    gpu_ms: 3096.893989443779
+    triangles: 126480140
+    draws: 1096666
+  - series: 1
+    range: 5
+    samples: 502
+    timed_samples: 502
+    geometry_ms: 407.2913966476917
+    gpu_ms: 667.2379526495934
+    triangles: 23208204
+    draws: 203074
+  - series: 1
+    range: 6
+    samples: 314
+    timed_samples: 314
+    geometry_ms: 277.00910753011703
+    gpu_ms: 435.1345205307007
+    triangles: 11579041
+    draws: 100232
+  - series: 1
+    range: 7
+    samples: 299
+    timed_samples: 299
+    geometry_ms: 255.20145320892334
+    gpu_ms: 406.23722994327545
+    triangles: 9567474
+    draws: 82623
+  - series: 1
+    range: 8
+    samples: 291
+    timed_samples: 291
+    geometry_ms: 230.4718708395958
+    gpu_ms: 377.4944177865982
+    triangles: 7645127
+    draws: 66090
+  - series: 1
+    range: 9
+    samples: 270
+    timed_samples: 270
+    geometry_ms: 216.29973509907722
+    gpu_ms: 351.60353380441666
+    triangles: 6371547
+    draws: 55211
+  - series: 1
+    range: 10
+    samples: 258
+    timed_samples: 258
+    geometry_ms: 204.9841094315052
+    gpu_ms: 329.61546099185944
+    triangles: 4801126
+    draws: 42661
+  - series: 1
+    range: 11
+    samples: 293
+    timed_samples: 293
+    geometry_ms: 206.93728649616241
+    gpu_ms: 349.9480636715889
+    triangles: 4791072
+    draws: 43187
+  - series: 1
+    range: 12
+    samples: 168
+    timed_samples: 168
+    geometry_ms: 69.84687331318855
+    gpu_ms: 152.1296318769455
+    triangles: 2576328
+    draws: 23467
+  - series: 1
+    range: 13
+    samples: 168
+    timed_samples: 168
+    geometry_ms: 68.60937350988388
+    gpu_ms: 151.50358992815018
+    triangles: 2659426
+    draws: 23848
+  - series: 1
+    range: 14
+    samples: 168
+    timed_samples: 168
+    geometry_ms: 71.12296718358994
+    gpu_ms: 154.1728607416153
+    triangles: 2018650
+    draws: 18692
+  - series: 1
+    range: 15
+    samples: 168
+    timed_samples: 168
+    geometry_ms: 70.07374796271324
+    gpu_ms: 154.37452787160873
+    triangles: 893016
+    draws: 9288
+  - series: 1
+    range: 16
+    samples: 168
+    timed_samples: 168
+    geometry_ms: 70.27135246992111
+    gpu_ms: 154.60806959867477
+    triangles: 1071832
+    draws: 10685
+  - series: 1
+    range: 17
+    samples: 165
+    timed_samples: 165
+    geometry_ms: 70.9273938536644
+    gpu_ms: 152.23458021879196
+    triangles: 618299
+    draws: 7071

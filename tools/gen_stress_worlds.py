@@ -79,10 +79,14 @@ H = {n: G.fnv1a64(n.encode()) for n in ['glt.transform', 'glt.camera', 'glt.ligh
                                          'glt.mesh_renderer', 'glt.name', 'glt.hierarchy']}
 
 
-def c_transform(pos=(0, 0, 0), rot=(0, 0, 0), scale=(1, 1, 1)):
+MOBILITY_FIXED, MOBILITY_MOVABLE = 0, 1      # GLT::world::mobility (world/mobility.h)
+
+
+def c_transform(pos=(0, 0, 0), rot=(0, 0, 0), scale=(1, 1, 1), mobility=MOBILITY_FIXED):
+    # 40 bytes: position, rotation, scale, mobility u8 + 3 pad. The engine also loads the older 36-byte form (as fixed)
     if isinstance(scale, (int, float)):
         scale = (scale,) * 3
-    return 'glt.transform', struct.pack('<9f', *pos, *rot, *scale)
+    return 'glt.transform', struct.pack('<9fB3x', *pos, *rot, *scale, mobility)
 
 
 def c_name(s):

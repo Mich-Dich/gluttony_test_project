@@ -35,7 +35,8 @@ for wp in sorted(glob.glob(root+'/world/stress/*.glt_world')):
             ids[idx]=rp
             for k,v in comps.items():
                 if k.startswith('0x'): err('unknown comp',k)
-            t=struct.unpack('<9f',comps['glt.transform'])
+            t=struct.unpack_from('<9f',comps['glt.transform'])
+            if len(comps['glt.transform']) not in (36, 40): err('transform payload size', len(comps['glt.transform']))
             if not all(math.isfinite(x) for x in t): err('nan transform')
             if 'glt.camera' in comps: cams.add(idx)
             if 'glt.mesh_renderer' in comps:

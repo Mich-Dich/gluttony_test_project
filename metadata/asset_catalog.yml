@@ -1,0 +1,453 @@
+asset_catalog:
+  version: 1
+  assets:
+  - id: ac79c4b116ce940f
+    type: 12
+    path: material/stress/color_000.glt_material
+  - id: ac792bbf77e2925c
+    type: 12
+    path: material/stress/color_001.glt_material
+  - id: ac781aadd4969775
+    type: 12
+    path: material/stress/color_002.glt_material
+  - id: ac78f5a3b5ba95c2
+    type: 12
+    path: material/stress/color_003.glt_material
+  - id: ac79ce6a9efc8d43
+    type: 12
+    path: material/stress/color_004.glt_material
+  - id: ac792164ffd08b90
+    type: 12
+    path: material/stress/color_005.glt_material
+  - id: ac7810765ca490a9
+    type: 12
+    path: material/stress/color_006.glt_material
+  - id: ac78ff783d888ef6
+    type: 12
+    path: material/stress/color_007.glt_material
+  - id: ac79a10606aaa1a7
+    type: 12
+    path: material/stress/color_008.glt_material
+  - id: ac794e0867869ff4
+    type: 12
+    path: material/stress/color_009.glt_material
+  - id: ac767c8774417a86
+    type: 12
+    path: material/stress/color_010.glt_material
+  - id: ac769d89156d7c39
+    type: 12
+    path: material/stress/color_011.glt_material
+  - id: ac77a29bb6197720
+    type: 12
+    path: material/stress/color_012.glt_material
+  - id: ac774f95d73578d3
+    type: 12
+    path: material/stress/color_013.glt_material
+  - id: ac767e5cfc738152
+    type: 12
+    path: material/stress/color_014.glt_material
+  - id: ac7697529d5f8305
+    type: 12
+    path: material/stress/color_015.glt_material
+  - id: ac77a0403e2b7dec
+    type: 12
+    path: material/stress/color_016.glt_material
+  - id: ac774d4e5f077f9f
+    type: 12
+    path: material/stress/color_017.glt_material
+  - id: ac7669306425881e
+    type: 12
+    path: material/stress/color_018.glt_material
+  - id: ac76f83e050989d1
+    type: 12
+    path: material/stress/color_019.glt_material
+  - id: ac72ccddd3c4975d
+    type: 12
+    path: material/stress/color_020.glt_material
+  - id: ac7223d3b2e895aa
+    type: 12
+    path: material/stress/color_021.glt_material
+  - id: ac730ec1119c93f7
+    type: 12
+    path: material/stress/color_022.glt_material
+  - id: ac73e1cf70b09244
+    type: 12
+    path: material/stress/color_023.glt_material
+  - id: ac72de065bf69091
+    type: 12
+    path: material/stress/color_024.glt_material
+  - id: ac7231083ada8ede
+    type: 12
+    path: material/stress/color_025.glt_material
+  - id: ac73041a99ae8d2b
+    type: 12
+    path: material/stress/color_026.glt_material
+  - id: ac73eb14f8828b78
+    type: 12
+    path: material/stress/color_027.glt_material
+  - id: ac72c96ac3a089c5
+    type: 12
+    path: material/stress/color_028.glt_material
+  - id: ac722664a28c8812
+    type: 12
+    path: material/stress/color_029.glt_material
+  - id: ac6f64ebb1437dd4
+    type: 12
+    path: material/stress/color_030.glt_material
+  - id: ac6f8de5d06f7f87
+    type: 12
+    path: material/stress/color_031.glt_material
+  - id: ac6ebef7731b813a
+    type: 12
+    path: material/stress/color_032.glt_material
+  - id: ac6e53f9123782ed
+    type: 12
+    path: material/stress/color_033.glt_material
+  - id: ac6f663039717708
+    type: 12
+    path: material/stress/color_034.glt_material
+  - id: ac6f873e585d78bb
+    type: 12
+    path: material/stress/color_035.glt_material
+  - id: ac6eb42cfb297a6e
+    type: 12
+    path: material/stress/color_036.glt_material
+  - id: ac6e59229a057c21
+    type: 12
+    path: material/stress/color_037.glt_material
+  - id: ac6f715ca127703c
+    type: 12
+    path: material/stress/color_038.glt_material
+  - id: ac6f9852c00b71ef
+    type: 12
+    path: material/stress/color_039.glt_material
+  - id: ac6b74689cd2644b
+    type: 12
+    path: material/stress/color_040.glt_material
+  - id: ac6b9b66fdfe6298
+    type: 12
+    path: material/stress/color_041.glt_material
+  - id: ac6aaa745e8a67b1
+    type: 12
+    path: material/stress/color_042.glt_material
+  - id: ac6a457a3fa665fe
+    type: 12
+    path: material/stress/color_043.glt_material
+  - id: ac6b76b314e06b17
+    type: 12
+    path: material/stress/color_044.glt_material
+  - id: ac6b99bd75cc6964
+    type: 12
+    path: material/stress/color_045.glt_material
+  - id: ac6aa8afd6b86e7d
+    type: 12
+    path: material/stress/color_046.glt_material
+  - id: ac6a47a1b7946cca
+    type: 12
+    path: material/stress/color_047.glt_material
+  - id: ac6b11df8cb656b3
+    type: 12
+    path: material/stress/color_048.glt_material
+  - id: ac6bfed1ed9a5500
+    type: 12
+    path: material/stress/color_049.glt_material
+  - id: ac683c5efe522442
+    type: 12
+    path: material/stress/color_050.glt_material
+  - id: ac68ad509f7e25f5
+    type: 12
+    path: material/stress/color_051.glt_material
+  - id: ac69e2423c0a20dc
+    type: 12
+    path: material/stress/color_052.glt_material
+  - id: ac690f4c5d26228f
+    type: 12
+    path: material/stress/color_053.glt_material
+  - id: ac68368576601d76
+    type: 12
+    path: material/stress/color_054.glt_material
+  - id: ac68df8b174c1f29
+    type: 12
+    path: material/stress/color_055.glt_material
+  - id: ac69e899b4381a10
+    type: 12
+    path: material/stress/color_056.glt_material
+  - id: ac690597d5141bc3
+    type: 12
+    path: material/stress/color_057.glt_material
+  - id: ac6859e9ee3631da
+    type: 12
+    path: material/stress/color_058.glt_material
+  - id: ac68b8e78f1a338d
+    type: 12
+    path: material/stress/color_059.glt_material
+  - id: ac65ec0459d10ab9
+    type: 12
+    path: material/stress/color_060.glt_material
+  - id: ac65030a38fd0906
+    type: 12
+    path: material/stress/color_061.glt_material
+  - id: ac643e189b890753
+    type: 12
+    path: material/stress/color_062.glt_material
+  - id: ac64d116faa505a0
+    type: 12
+    path: material/stress/color_063.glt_material
+  - id: ac65e6dfd1e31185
+    type: 12
+    path: material/stress/color_064.glt_material
+  - id: ac6509d1b0cf0fd2
+    type: 12
+    path: material/stress/color_065.glt_material
+  - id: ac643cc313bb0e1f
+    type: 12
+    path: material/stress/color_066.glt_material
+  - id: ac64d3cd72970c6c
+    type: 12
+    path: material/stress/color_067.glt_material
+  - id: ac6589b349b51851
+    type: 12
+    path: material/stress/color_068.glt_material
+  - id: ac6566bd2899169e
+    type: 12
+    path: material/stress/color_069.glt_material
+  - id: ac6154323b5ff130
+    type: 12
+    path: material/stress/color_070.glt_material
+  - id: ac61bd3c5a73f2e3
+    type: 12
+    path: material/stress/color_071.glt_material
+  - id: ac608e2ef907f496
+    type: 12
+    path: material/stress/color_072.glt_material
+  - id: ac606320982bf649
+    type: 12
+    path: material/stress/color_073.glt_material
+  - id: ac615ee9b36df7fc
+    type: 12
+    path: material/stress/color_074.glt_material
+  - id: ac61bfe7d241f9af
+    type: 12
+    path: material/stress/color_075.glt_material
+  - id: ac608cf57135fb62
+    type: 12
+    path: material/stress/color_076.glt_material
+  - id: ac6061fb1019fd15
+    type: 12
+    path: material/stress/color_077.glt_material
+  - id: ac6141852b3bfec8
+    type: 12
+    path: material/stress/color_078.glt_material
+  - id: ac61a88b4a14007b
+    type: 12
+    path: material/stress/color_079.glt_material
+  - id: ac95250202f576f7
+    type: 12
+    path: material/stress/color_080.glt_material
+  - id: ac95ca0c63d97544
+    type: 12
+    path: material/stress/color_081.glt_material
+  - id: ac94fb1ec0ad7a5d
+    type: 12
+    path: material/stress/color_082.glt_material
+  - id: ac941410a18178aa
+    type: 12
+    path: material/stress/color_083.glt_material
+  - id: ac952fd98ac7702b
+    type: 12
+    path: material/stress/color_084.glt_material
+  - id: ac95c0d7ebeb6e78
+    type: 12
+    path: material/stress/color_085.glt_material
+  - id: ac94f1c5489f7391
+    type: 12
+    path: material/stress/color_086.glt_material
+  - id: ac941ecb29b371de
+    type: 12
+    path: material/stress/color_087.glt_material
+  - id: ac9530b51291695f
+    type: 12
+    path: material/stress/color_088.glt_material
+  - id: ac95dfbb73bd67ac
+    type: 12
+    path: material/stress/color_089.glt_material
+  - id: ac909d3460685d6e
+    type: 12
+    path: material/stress/color_090.glt_material
+  - id: ac907c3a01445f21
+    type: 12
+    path: material/stress/color_091.glt_material
+  - id: ac914328a2305a08
+    type: 12
+    path: material/stress/color_092.glt_material
+  - id: ac91ae26c31c5bbb
+    type: 12
+    path: material/stress/color_093.glt_material
+  - id: ac909fefe85a643a
+    type: 12
+    path: material/stress/color_094.glt_material
+  - id: ac9076e1897665ed
+    type: 12
+    path: material/stress/color_095.glt_material
+  - id: ac9141f32a0260d4
+    type: 12
+    path: material/stress/color_096.glt_material
+  - id: ac91acfd4b2e6287
+    type: 12
+    path: material/stress/color_097.glt_material
+  - id: ac90f883700c4fd6
+    type: 12
+    path: material/stress/color_098.glt_material
+  - id: ac90698d11205189
+    type: 12
+    path: material/stress/color_099.glt_material
+  - id: a3635835c56f8d24
+    type: 12
+    path: material/stress/color_100.glt_material
+  - id: a363b73ba4438ed7
+    type: 12
+    path: material/stress/color_101.glt_material
+  - id: a36282290737908a
+    type: 12
+    path: material/stress/color_102.glt_material
+  - id: a3626d27661b923d
+    type: 12
+    path: material/stress/color_103.glt_material
+  - id: a3636aee4d5d8658
+    type: 12
+    path: material/stress/color_104.glt_material
+  - id: a36385e02c71880b
+    type: 12
+    path: material/stress/color_105.glt_material
+  - id: a36288f28f0589be
+    type: 12
+    path: material/stress/color_106.glt_material
+  - id: a36267fcee298b71
+    type: 12
+    path: material/stress/color_107.glt_material
+  - id: a3637d82d50b7f8c
+    type: 12
+    path: material/stress/color_108.glt_material
+  - id: a363928cb427813f
+    type: 12
+    path: material/stress/color_109.glt_material
+  - id: a366e003a7e0a6ad
+    type: 12
+    path: material/stress/color_110.glt_material
+  - id: a366010dc6cca4fa
+    type: 12
+    path: material/stress/color_111.glt_material
+  - id: a367321f65b8a347
+    type: 12
+    path: material/stress/color_112.glt_material
+  - id: a367df110494a194
+    type: 12
+    path: material/stress/color_113.glt_material
+  - id: a366e2d82fd29fe1
+    type: 12
+    path: material/stress/color_114.glt_material
+  - id: a3660bd64efe9e2e
+    type: 12
+    path: material/stress/color_115.glt_material
+  - id: a36738c4ed8a9c7b
+    type: 12
+    path: material/stress/color_116.glt_material
+  - id: a367d5ca8ca69ac8
+    type: 12
+    path: material/stress/color_117.glt_material
+  - id: a366f5b4b7849915
+    type: 12
+    path: material/stress/color_118.glt_material
+  - id: a36624bad6a89762
+    type: 12
+    path: material/stress/color_119.glt_material
+  - id: a36a1059006589d6
+    type: 12
+    path: material/stress/color_120.glt_material
+  - id: a36aff5761498b89
+    type: 12
+    path: material/stress/color_121.glt_material
+  - id: a36bce45c23d8670
+    type: 12
+    path: material/stress/color_122.glt_material
+  - id: a36b214ba3118823
+    type: 12
+    path: material/stress/color_123.glt_material
+  - id: a36a0282885790a2
+    type: 12
+    path: material/stress/color_124.glt_material
+  - id: a36aed8ce97b9255
+    type: 12
+    path: material/stress/color_125.glt_material
+  - id: a36bdc9e4a0f8d3c
+    type: 12
+    path: material/stress/color_126.glt_material
+  - id: a36b33902b238eef
+    type: 12
+    path: material/stress/color_127.glt_material
+  - id: 6672e3aad25fddc8
+    type: 12
+    path: material/translucent.glt_material
+  - id: 01495aa4d69d2d6f
+    type: 4
+    path: static_mesh_assets/basic/ball.glt_static_mesh
+  - id: d7e12f9c6e37a6a6
+    type: 4
+    path: static_mesh_assets/basic/cube.glt_static_mesh
+  - id: b9356d1a12cbbed7
+    type: 4
+    path: static_mesh_assets/basic/cylinder.glt_static_mesh
+  - id: fc08797de9f33306
+    type: 4
+    path: static_mesh_assets/basic/stealth_ship.glt_static_mesh
+  - id: f9ac4f8daa883e99
+    type: 4
+    path: static_mesh_assets/basic/torus.glt_static_mesh
+  - id: 7b82d68b6556ba40
+    type: 4
+    path: static_mesh_assets/basic/ubdic_plane.glt_static_mesh
+  - id: 1affb86a62b02cb2
+    type: 1
+    path: world/stress/complex_city.glt_world
+  - id: fe6d98b8862b6d93
+    type: 2
+    path: world/stress/complex_city_r_-1_0_-1.glt_region
+  - id: 590902b3fb482f77
+    type: 2
+    path: world/stress/complex_city_r_-1_0_0.glt_region
+  - id: 5909edbd9a642dc4
+    type: 2
+    path: world/stress/complex_city_r_-1_0_1.glt_region
+  - id: 5eccbd9fc5703d2b
+    type: 2
+    path: world/stress/complex_city_r_-1_1_-1.glt_region
+  - id: 3732b62b693fc9d7
+    type: 2
+    path: world/stress/complex_city_r_0_0_-1.glt_region
+  - id: 55bb7c9cd3ec0acb
+    type: 2
+    path: world/stress/complex_city_r_0_0_0.glt_region
+  - id: 55bb9192b2c00918
+    type: 2
+    path: world/stress/complex_city_r_0_0_1.glt_region
+  - id: d1a2fcffaf0f9eca
+    type: 2
+    path: world/stress/complex_city_r_1_0_-1.glt_region
+  - id: 0a63454e8d2cfd88
+    type: 2
+    path: world/stress/complex_city_r_1_0_0.glt_region
+  - id: 0a63a840ec00ff3b
+    type: 2
+    path: world/stress/complex_city_r_1_0_1.glt_region
+  - id: 51040f9260d4d5f5
+    type: 1
+    path: world/stress/instancing_1k.glt_world
+  - id: 57e818c5dedcdbdc
+    type: 2
+    path: world/stress/instancing_1k_r_0_0_0.glt_region
+  - id: 2bc57e8375a79096
+    type: 1
+    path: world/stress/lights_over_cap_1500.glt_world
+  - id: 1b2bebe1d9bf85db
+    type: 2
+    path: world/stress/lights_over_cap_1500_r_0_0_0.glt_region
