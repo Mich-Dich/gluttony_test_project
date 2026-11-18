@@ -15,12 +15,16 @@ namespace test_project::scripts {
 
     struct [[=ann::entity_script{}]] spinner : GLT::script::i_script {
 
-        [[=ann::editor{"Spin"}]] [[=ann::range{0.0, 720.0}]]
+        [[=ann::editor{"Spin"}]] [[=ann::range{-720.0, 720.0}]]
         f32                                             degrees_per_second = 45.0f;
 
-        [[=ann::persist{}]]
-        f32                                             angle = 0.0f;
+        [[=ann::editor{"Spin"}]]
+        glm::vec3                                       axis{ 0.0f, 1.0f, 0.0f };
 
+        [[=ann::persist{}]]
+        f32                                             angle = 0.0f;           // turned so far (degrees); survives hot reload
+
+        void on_start(GLT::script::script_context& ctx) override;
         void on_update(GLT::script::script_context& ctx, f32 dt) override;
 
         [[=ann::editor_callable{"Reset angle"}]]

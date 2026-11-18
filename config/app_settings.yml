@@ -13,9 +13,9 @@ simulation_settings:
   layout_1:
     window_0:
       pos_x: 6
-      pos_y: 728
-      size_x: 1459
-      size_y: 660
+      pos_y: 700
+      size_x: 1271
+      size_y: 688
       maximized: false
       vsync: true
   layout_2:
