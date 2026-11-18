@@ -1,6 +1,6 @@
 window:
   title: Gluttony
-  width: 1680
+  width: 1604
   height: 1114
   pos_x: 5126
   pos_y: 561
@@ -9,12 +9,13 @@ window:
 simulation_settings:
   mode: 1
   window_count: 1
+  remember_window_placement: true
   layout_1:
     window_0:
-      pos_x: 100
-      pos_y: 100
-      size_x: 1280
-      size_y: 720
+      pos_x: 6
+      pos_y: 728
+      size_x: 1459
+      size_y: 660
       maximized: false
       vsync: true
   layout_2:

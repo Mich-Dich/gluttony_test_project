@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Game module build output (build/<config>/bin, build/<config>/loaded, CMake build trees)
+/build/
